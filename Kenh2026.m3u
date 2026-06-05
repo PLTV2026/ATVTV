@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" m3uautoload=1
 #-----------------------Truyền Hình-------------------------------#
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png" group-title="VTV", VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
