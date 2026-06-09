@@ -26,8 +26,6 @@ https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_640_360.png" group-title="VTV",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV1_HD.png", ATV HD
-https://hnlive.dramahay.xyz/live/atv/index.m3u8
 
 #-----------------------HTV-------------------------------#
 
