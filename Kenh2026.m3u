@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" m3uautoload=1
 #-----------------------Truyền Hình-------------------------------#
 
-#EXTINF:-1 group-title="Truyền Hình",Lịch World Cup 2026 LWC
+#EXTINF:-1 group-title="Truyền Hình",Lịch World Cup 2026
 https://pltv2026.github.io/LOGOKENH/LWC.mp4
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
