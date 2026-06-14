@@ -295,20 +295,16 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS  
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+ 
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdjvrwZKrL-vbYz4nY_dUms/ts 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL 
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw/ts 
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS  
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfjELkpuULaoe1h2pAp4xpE/ts 
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/7brNVwe9MIz9glWOR51yC_8Vlq05sFGh4u22DZkTRpc/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjkzNWI3ZWEtMTNiOS00MjUyLThmYWYtZWRlMWUzNTE0MmJkLnBuZw==.png", On Golf
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/LbErgCyAO8oeCvdoXtn2YD7Dmdq-5Ck_kd_j3KRiQOw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzQ2ODU3N2ItZDllZC00YzQxLThhODEtZmNmNzc1YTkxYjIzLnBuZw==.png", ON Sports HD
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/DQooNd3FvN5ZOr4IFRPGTCdrGYYo54iHoJtKZw7IGJ8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDkxYzkxNDItOWEzZi00MDNmLWExOTMtZDdkZGIzYmM0MzI1LnBuZw==.png", ON Sports+
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdjvrwZKrL-vbYz4nY_dUms/ts
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/wADmCTC1blGfZsAXsLdID5Ga0lbin-QoM9RFyvh8iTE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2U0YzQwOTItYmM4OS00ZTU3LWI3MTUtNGU5ZTkzZjA4NmIyLnBuZw==.png",  ON Football HD
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw/ts
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/eCd__H3xHmm7u3gZ5gVuuUcUurti3lVCuf6K0jhFdL0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDI1OWVkYzYtMzYwMC00ZjU0LWE2MmUtZDdhMzc5MTY5M2FlLnBuZw==.png", ON Sports News
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfjELkpuULaoe1h2pAp4xpE/ts
 
 #-----------------------Kênh TV360-------------------------------#
 
