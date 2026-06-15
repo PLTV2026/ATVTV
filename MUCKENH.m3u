@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz" m3uautoload=1
-#-----------------------Truyền Hình-------------------------------#
-#EXTINF:-1 tvg-id="Lịch World Cup 2026" group-title="WC2026",Lịch World Cup 2026
-https://pltv2026.github.io/LOGOKENH/LWC.mp4
 
 #-----------------------KÊNH VTV-------------------------------#
 
@@ -640,38 +637,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #-----------------------KÊNH WC-------------------------------#
 
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="WC2026",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VTV6" group-title="WC2026" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi",VTV6
-https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="sctv15" group-title="WC2026" tvg-logo="https://img.vtvprime.vn/2aHpjGXD44gTLqUNPbTvKpwYoO7SSGK608WqH9YD5jU/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZjBhNjlkNTItODA0Yy00YzQzLTllMGQtNDFlYzdiNWE4ODMyLnBuZw==.png", SCTV15 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
-#EXTINF:-1 tvg-id="sctv17" group-title="WC2026" tvg-logo="https://img.vtvprime.vn/8fpfcS-6YDwMwZT8ej5U_ll9yYJvt1mZaCeSBmi5jnI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDQ5ODA4NWQtYmUwNC00NDFiLWI2NDYtM2JlMTJkZjBlNGRjLnBuZw==.png", SCTV17 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
-#EXTINF:-1 tvg-id="sctv22hd" group-title="WC2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",SCTV22 HD
-https://vpsttt.vietanhtv.top/sctv/mytv.php?id=sctv22-d388dc25
-#EXTINF:-1 tvg-id="onsports" group-title="WC2026" tvg-logo="https://img.vtvprime.vn/LbErgCyAO8oeCvdoXtn2YD7Dmdq-5Ck_kd_j3KRiQOw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzQ2ODU3N2ItZDllZC00YzQxLThhODEtZmNmNzc1YTkxYjIzLnBuZw==.png", ON Sports HD
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts
-#EXTINF:-1 tvg-id="onsportsplus" group-title="WC2026" tvg-logo="https://img.vtvprime.vn/DQooNd3FvN5ZOr4IFRPGTCdrGYYo54iHoJtKZw7IGJ8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDkxYzkxNDItOWEzZi00MDNmLWExOTMtZDdkZGIzYmM0MzI1LnBuZw==.png", ON Sports+
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdjvrwZKrL-vbYz4nY_dUms/ts
-#EXTINF:-1 tvg-id="onfootball" group-title="WC2026" tvg-logo="https://img.vtvprime.vn/wADmCTC1blGfZsAXsLdID5Ga0lbin-QoM9RFyvh8iTE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2U0YzQwOTItYmM4OS00ZTU3LWI3MTUtNGU5ZTkzZjA4NmIyLnBuZw==.png",  ON Football HD
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw/ts
-#EXTINF:-1 tvg-id="onsportsnews" group-title="WC2026" tvg-logo="https://img.vtvprime.vn/eCd__H3xHmm7u3gZ5gVuuUcUurti3lVCuf6K0jhFdL0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDI1OWVkYzYtMzYwMC00ZjU0LWE2MmUtZDdhMzc5MTY5M2FlLnBuZw==.png", ON Sports News
-http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfjELkpuULaoe1h2pAp4xpE/ts
-#EXTINF:-1 tvg-id="ongolf" group-title="WC2026" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
 
 
 
