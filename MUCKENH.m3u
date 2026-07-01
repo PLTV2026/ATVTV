@@ -443,37 +443,17 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca9c781a5ba142f2b03a8028fcecb847:c69c101846413ae8faa8d353c7979121
 https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot.png", ON SPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/LbErgCyAO8oeCvdoXtn2YD7Dmdq-5Ck_kd_j3KRiQOw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzQ2ODU3N2ItZDllZC00YzQxLThhODEtZmNmNzc1YTkxYjIzLnBuZw==.png", ON Sports HD
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdOOvy-m3p9K5-Cg-HdYvfk/ts
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspot+.png", ON SPORTS+ 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/DQooNd3FvN5ZOr4IFRPGTCdrGYYo54iHoJtKZw7IGJ8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDkxYzkxNDItOWEzZi00MDNmLWExOTMtZDdkZGIzYmM0MzI1LnBuZw==.png", ON Sports+
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGdjvrwZKrL-vbYz4nY_dUms/ts
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/football.png", ON FOOTBALL 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/wADmCTC1blGfZsAXsLdID5Ga0lbin-QoM9RFyvh8iTE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2U0YzQwOTItYmM4OS00ZTU3LWI3MTUtNGU5ZTkzZjA4NmIyLnBuZw==.png",  ON Football HD
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw/ts
 
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onspotn.png", ON SPORTS NEWS 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.vtvprime.vn/eCd__H3xHmm7u3gZ5gVuuUcUurti3lVCuf6K0jhFdL0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDI1OWVkYzYtMzYwMC00ZjU0LWE2MmUtZDdhMzc5MTY5M2FlLnBuZw==.png", ON Sports News
+http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGfjELkpuULaoe1h2pAp4xpE/ts
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/goft.png", ON GOLF 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
